@@ -1285,10 +1285,10 @@
 
 .uploader-window {
 	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
+	top: 110px;
+	left: 230px;
+	right: 30px;
+	bottom: 92px;
 	background: rgba( 0, 86, 132, 0.9 );
 	z-index: 250000;
 	display: none;
