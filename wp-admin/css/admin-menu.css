@@ -141,7 +141,7 @@
 #adminmenuwrap {
 	position: relative;
 	float: left;
-	z-index: 9990;
+	z-index: 100101;
 }
 
 /* side admin menu */
